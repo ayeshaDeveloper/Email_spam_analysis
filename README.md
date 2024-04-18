@@ -1,4 +1,3 @@
-Since the file you've uploaded is a Jupyter notebook (.ipynb) and not a typical text or PDF file, I'll convert and analyze its content to draft a README file for your GitHub repository. Let's proceed by examining the notebook content first. I'll extract the information and create a README based on the sections, code, comments, and outputs within the notebook.
 # Spam Emails Analysis
 
 ## Overview
